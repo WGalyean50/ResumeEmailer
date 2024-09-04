@@ -1,6 +1,6 @@
 Welcome! This is a proof of concept of a resume scanning tool. 
-It uses a combination of ChatGPT-4 and the Gmail API to automate assessing a candidate for a job, and then emailing that candidate if they are a good fit.
-Multiple interviews with recruiters were conducted to identify the use case, and built this prototype using Claude and ChatGPT.
+It uses a combination of ChatGPT-4 and the Gmail API to automate the assessment of a candidate for a given job description, and then emailing that candidate if they are a good fit.
+Multiple interviews with recruiters were conducted to identify the use case, and I built this prototype using Claude and ChatGPT.
 I plan on expanding on this proof of concept to include assessments of multiple resumes at once.
 
 ## Overview
